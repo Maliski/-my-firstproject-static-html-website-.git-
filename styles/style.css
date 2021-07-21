@@ -10,6 +10,25 @@ html {
   background-color: #2e6961;
   
 }
+
+.container {
+  width:80px;
+  margin: 0 auto;
+}
+
+header {
+  background-color:rgb(15,40,60);
+}
+
+nav ul{
+  margin:0;
+  padding:0;
+  list-style:none;
+}
+
+nav li{ 
+display:inline-block;
+}
 #steve {display:block;
   margin:auto;
   }
